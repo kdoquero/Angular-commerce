@@ -1,0 +1,114 @@
+{
+    "games": [
+      {
+        "id": 0,
+        "name": "Final Fantasy XV",
+        "genre": "RPG",
+        "released": "2017-11-29",
+        "description": "Another entry of the prestigious serie",
+        "size": "74000mo",
+        "platform": "Playstation 4",
+        "image": "https://static.gamespot.com/uploads/original/123/1239113/3094163-ffxv1.jpg",
+        "available": true
+      },
+      {
+        "id": 1,
+        "name": "Legend of Heroes: Trails of cold steel 2",
+        "genre": "RPG",
+        "released": "2017-11-29",
+        "description": "A niche Rpg",
+        "size": "4000mo",
+        "platform": "Playstation 3",
+        "image": "https://vignette.wikia.nocookie.net/legendofheroes/images/2/28/Trails_of_cold_steel_PS3_cover.jpg/revision/latest?cb=20151221170337",
+        "available": true
+      },
+      {
+        "id": 2,
+        "name": "Mario Odessey",
+        "genre": "RPG",
+        "released": "2018-02-21",
+        "description": "Mario return !",
+        "size": "6000mo",
+        "platform": "Nintendo switch",
+        "image": "https://gonintendo.com/system/file_uploads/uploads/000/030/511/original/15wxUiB.jpg",
+        "available": true
+      },
+      {
+        "id": 3,
+        "name": "Madden 18",
+        "genre": "Sport",
+        "released": "2017-06-21",
+        "description": "Handegg",
+        "size": "7000mo",
+        "platform": "Microsoft Xbox One",
+        "image": "https://i.imgur.com/Z8J5ofU.jpg",
+        "available": false
+      },
+      {
+        "id": 4,
+        "name": "Pokemon XY",
+        "genre": "Rpg",
+        "released": "2017-03-15",
+        "description": "Attrapez les tous",
+        "size": "2000mo",
+        "platform": "Nintendo DS",
+        "image": "https://cdn.bulbagarden.net/upload/thumb/2/27/X_EN_boxart.png/1200px-X_EN_boxart.png",
+        "available": true
+      },
+      {
+        "id": 5,
+        "name": "God of war",
+        "genre": "Action",
+        "released": "2017-03-15",
+        "description": "Attrapez les tous",
+        "size": "2000mo",
+        "platform": "Nintendo DS",
+        "image": "https://i.pinimg.com/originals/be/9d/0d/be9d0df86f3e49059cfa1345cf980e15.jpg",
+        "available": true
+      },
+      {
+        "id": 6,
+        "name": "Monster Hunter",
+        "genre": "Rpg",
+        "released": "2017-03-15",
+        "description": "Attrapez les tous",
+        "size": "2000mo",
+        "platform": "Nintendo DS",
+        "image": "https://global-img.gamergen.com/monster-hunter-world-jaquette-cover-ps4_03AA045A00879360.jpg",
+        "available": true
+      },
+      {
+        "id": 7,
+        "name": "Maple story",
+        "genre": "Rpg",
+        "released": "2017-03-15",
+        "description": "Attrapez les tous",
+        "size": "2000mo",
+        "platform": "Nintendo DS",
+        "image": "https://vignette.wikia.nocookie.net/etrian/images/5/52/Etrian_Odyssey_IV_US.jpg/revision/latest?cb=20160511170113",
+        "available": true
+      },
+      {
+        "id": 8,
+        "name": "Fifa 18",
+        "genre": "Rpg",
+        "released": "2017-03-15",
+        "description": "Attrapez les tous",
+        "size": "2000mo",
+        "platform": "Nintendo DS",
+        "image": "http://images.performgroup.com/di/library/GOAL/79/c3/fifa-18-pack-shot_1wwbvp22h4qvb1qi01oijh784g.png?t=152792078",
+        "available": true
+      },
+      {
+        "id": 9,
+        "name": "Super smatch bros",
+        "genre": "Rpg",
+        "released": "2017-03-15",
+        "description": "Attrapez les tous",
+        "size": "2000mo",
+        "platform": "Nintendo DS",
+        "image": "https://i.imgur.com/hbrpJhT.jpg",
+        "available": true
+      }
+    ]
+  }
