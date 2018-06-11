@@ -1,0 +1,5 @@
+<ngx-slick class="carousel" #slickModal="slick-modal" [config]="slideConfig" (afterChange)="afterChange($event)">
+  <div ngxSlickItem *ngFor="let game of games" class="slide">
+        <img  class="container-image" src="{{ game.image.original_url }}" alt="" >
+  </div>
+</ngx-slick>

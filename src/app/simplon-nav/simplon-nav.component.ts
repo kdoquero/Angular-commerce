@@ -1,6 +1,6 @@
 import { Component, OnInit } from '@angular/core';
 import { Game } from '../entities/game';
-import { DaoGame } from '../entities/dao/dao-game';
+
 
 
 @Component({

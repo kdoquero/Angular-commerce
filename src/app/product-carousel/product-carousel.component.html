@@ -1,0 +1,17 @@
+<div id="product-carousel-container">
+    <ul id="product-carousel">
+      <li *ngFor="let game of games | slice:0:5" >
+        <img [src]="game.image">
+      </li>
+    </ul>
+
+    <div id="product-carousel-nav">
+      <button class="carousel-nav prev"></button>
+      <button class="carousel-nav next"></button>
+    </div>
+    <div id="carousel-dots">
+      <ul>
+        <li *ngFor="let game of games | slice:0:5" ></li>
+      </ul>
+    </div>
+  </div>

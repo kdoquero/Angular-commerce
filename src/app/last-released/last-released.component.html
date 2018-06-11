@@ -1,6 +1,7 @@
 <mat-list role="list" class="latest">
-  <mat-list-item role="listitem" *ngFor="let game of latestGames">{{game.name}} | {{game.released}} </mat-list-item>
-  
+  <mat-list-item role="listitem" *ngFor="let game of latestGames">{{game.name}} |
+    {{game.expected_release_month}} / {{game.expected_release_year}} </mat-list-item>
 
-  
+
+
 </mat-list>
